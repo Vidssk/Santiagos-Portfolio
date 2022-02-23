@@ -81,6 +81,7 @@
   background-size: cover;
   overflow: hidden;
   background-repeat: no-repeat;
+  background-color: black;
   color: green;
   font-size: 100px;
  }
