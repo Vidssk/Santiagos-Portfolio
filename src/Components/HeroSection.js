@@ -15,7 +15,7 @@ function HeroSection() {
             <p>C++ Software Developer</p> 
             <p>Utilizing Unreal engine for VR and gaming applications.</p>
             <div className="hero-btns">
-            <a href={Resume} download="MyResume" target='_blank' rel="noreferrer">
+            <a href={Resume} download="SantiagosResume" target='_blank' rel="noreferrer">
                 <button className = {`btn btn--primary btn--large`} type ="button">
                     Download Resume <FontAwesomeIcon icon={faDownload}/>
                 </button>

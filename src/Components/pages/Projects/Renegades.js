@@ -17,11 +17,12 @@ export default function BuildingEscape() {
                <p className='projectInfo'>Virtual Reality Sword fighting game built using Unreal Engine.</p>
                <h3>Notable Features</h3>
                <ul className='projectInfoList'>
-                   <li>Survival Game Mode</li>
+                   <li>Survival Game Mode (currently programming)</li>
+                   <li>Katana weapon made from Blender and Substance Painter</li>
                </ul>
                <h3>Lessons Learned</h3>
                 <ul className='projectInfoList'>
-                    <li>3D game Asset Workflow using Blender and Substance Painter</li>
+                    <li>3D game Asset Workflow</li>
                 </ul>
                <h3>Project Dificulties</h3>
                 <ul className='projectInfoList'>

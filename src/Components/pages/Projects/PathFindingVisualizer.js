@@ -17,8 +17,9 @@ export default function PathFindingVisualizer() {
                Crates a graph that calculates the shortest route between two points.</p>
                <h3>Notable Features</h3>
                <ul className='projectInfoList'>
-                   <li>Pathfinding Algorithms: A*Star</li>
-                   <li>Walls: block out nodes</li>
+                   <li>Pathfinding Algorithm: A*Star.</li>
+                   <li>Walls: block out nodes.</li>
+                   <li>Currently Programming more Algorithms.</li>
                </ul>
                <h3>My Role</h3>
                 <ul className='projectInfoList'>

@@ -14,20 +14,20 @@ export default function BuildingEscape() {
             </div>
             <section className="aboutProject">
                <h2>Project Information</h2>
-               <p className='projectInfo'>Virtual Reality Painting game built using Unreal Engine. 
-               Create new canvas to paint, save, and select through a VR 3D User Interface.</p>
+               <p className='projectInfo'>3rd-Person Tank game.  The objective is to destroy all enemy turrets before 
+               your tank's destroyed.</p>
                <h3>Lessons Learned</h3>
                 <ul className='projectInfoList'>
-                    <li>Creating Actor class to be used as a projectile base class</li>
-                    <li>Creating GameMode classed</li>
-                    <li>Creating Health component</li>
-                    <li>Creating Widget Blueprints</li>
-                    <li>Spawning Actors at runtime</li>
-                    <li>Spawning particle system</li>
-                    <li>Understanding UPROPERTY Specifiers</li>
-                    <li>Using Dynamic Delegates</li>
+                    <li>Creating Actor class to be used as a projectile base class.</li>
+                    <li>Creating GameMode classed.</li>
+                    <li>Creating Health Component.</li>
+                    <li>Creating Widget Blueprints.</li>
+                    <li>Spawning Actors at runtime.</li>
+                    <li>Spawning Particle System.</li>
+                    <li>Understanding UPROPERTY Specifiers.</li>
+                    <li>Using Dynamic Delegates.</li>
                     <li>Using Timers for events based on elapsed time.</li>
-                    <li>Utilizing reflection system in Unreal for casting</li>
+                    <li>Utilizing the Reflection System in Unreal for Casting.</li>
                 </ul>
                <h3>Project Dificulties</h3>
                 <ul className='projectInfoList'>
