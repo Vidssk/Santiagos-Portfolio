@@ -57,7 +57,7 @@ export default class extends React.Component {
     handleSubmit(event) {
         const templateId = 'template_s36jpq2';
         this.sendFeedback(templateId, {message: this.state.feedback, from_name: this.state.name, reply_to: this.state.email})
-        window.location.reload(true);
+        this.state.feedback,this.state.email,this.state.name = '';
     }
     sendFeedback(templateId, variables) {
         window.emailjs.send('service_yn8zl2l',templateId, variables
