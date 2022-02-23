@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom'
 import './CSS/Navbar.css'
 import '../App.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import SHLogo from '../images/SHLogo.svg'
 import { faBars, faTimes } from '@fortawesome/free-solid-svg-icons'
 
 

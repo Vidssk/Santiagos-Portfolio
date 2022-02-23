@@ -1,9 +1,11 @@
+import ZeroLatencyPhoto from './images/ZeroLatency.png';
+import JujutsuCosplay from './images/Cosplay.jpg';
 export const SliderData = [
     {
-        image: 'images/ZeroLatency.png'
+        image: ZeroLatencyPhoto
     },
     {
-        image: 'images/Cosplay.jpg'
+        image: JujutsuCosplay
     },
 
 ]

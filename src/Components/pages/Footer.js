@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import './CSS/Footer.css'
 import { faInstagram, faFacebook, faLinkedin, faGithub} from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import EmailForm from '../EmailForm'
+
 
 
 

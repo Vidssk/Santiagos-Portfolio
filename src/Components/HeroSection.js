@@ -3,18 +3,19 @@ import React from 'react'
 import '../App.css';
 import { Button } from './Button'
 import './CSS/HeroSection.css';
+import BackgroundVideo from './video.mp4';
 import {faDownload} from '@fortawesome/free-solid-svg-icons';
 import Resume from '../images/Software_Resume.pdf'
 
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <video src="/videos/video.mp4" autoPlay loop muted />
+            <video src={BackgroundVideo} autoPlay loop muted />
             <h1>RELENTLESS</h1>
             <p>C++ Software Developer</p> 
             <p>Utilizing Unreal engine for VR and gaming applications.</p>
             <div className="hero-btns">
-            <a href={Resume} download="MyResume" target='_blank'>
+            <a href={Resume} download="MyResume" target='_blank' rel="noreferrer">
                 <button className = {`btn btn--primary btn--large`} type ="button">
                     Download Resume <FontAwesomeIcon icon={faDownload}/>
                 </button>

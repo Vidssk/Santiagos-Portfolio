@@ -14,14 +14,14 @@ function About(props) {
             <div className="about-text-wrapper">
                     {/*<h1 className="title">ABOUT ME</h1>*/}
                 <section className="about-information-text">
-                <p className='About-wrapper'>
+                <section className='About-wrapper'>
                 <h2>About Me</h2>
                 <p className='information'>
                 Self-taught Virtual Reality Developer located in Houston pursuing an opportunity in XR Development.
                 </p>
-                </p>
+                </section>
                 <section className='Abilities'>
-                <p className='Skills-wrapper'>
+                <section className='Skills-wrapper'>
                 <h3>Skills</h3>
                 <ul className='list'>
                     <li>C++</li>
@@ -32,8 +32,8 @@ function About(props) {
                     <li>React JS</li>
                     <li>Oral Presentations</li>
                 </ul>
-                </p>
-                <p className='Hobbies-wrapper'>
+                </section>
+                <section className='Hobbies-wrapper'>
                 <h3>Hobbies</h3>
                 <ul className='list'>
                     <li>Dancing</li>
@@ -41,7 +41,7 @@ function About(props) {
                     <li>Rock Climbing</li>
                     <li>CodeWars</li>
                 </ul>
-                </p>
+                </section>
                 </section>
                 </section>
             </div> 

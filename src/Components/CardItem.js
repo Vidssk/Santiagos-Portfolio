@@ -10,7 +10,7 @@ function CardItem(props) {
                     <div className="img-container">
                         <img 
                         src={props.src} 
-                        alt="Travel Image" 
+                        alt={props.label + " picture"} 
                         className="cards__item__img"
                         />
                     </div>
