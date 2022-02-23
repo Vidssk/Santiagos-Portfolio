@@ -1,38 +1,169 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  background: transparent;
+  max-height: fit-content;
+  margin: 0;
+  padding: 0;
+  color: whitesmoke;
+  font-family: 'Bebas Neue', sans-serif;
+  --mainColor: #242424;
+  --secondaryColor: #161616;
+  --thirdColor: #3586ff;
+  --primaryTextColor: whitesmoke;
+  --fontType: 'Bebas Neue';
+  --navbarTextColor: whitesmoke;
+  --navbarbackgroundColor: linear-gradient(45deg, black 40%, #870000 50%);
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.architecture_explorer_img, 
+.building_escape_img,
+.bull_cow_img,
+.painting_picker_img, 
+.path_finding_img,
+.renegades_img, 
+.simple_shooter_img, 
+.toon_tanks_img{
+ display: flex;
+ height: 70vh;
+ align-items: center;
+ justify-content: center;
+ font-size: 3rem;
+}
+ .building_escape_img {
+  background-image: url('./images/BuildingEscapePic.png');
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  color: rgb(110, 94, 0);
+  font-size: 100px;
+ }
+
+ .architecture_explorer_img {
+
+  background-image: url('./images/ArchitectureExplorerPic.png');
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+ }
+
+ .simple_shooter_img {
+
+  background-image: url('./images/SimpleShooterPic.png');
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+ }
+
+ .renegades_img {
+
+  background-image: url('./images/RenegadesLogo.jpeg');
+  background-position: center;
+  background-size: contain;
+  background-color: black;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+ }
+
+ .painting_picker_img {
+  /*background-image: url('./images/PaintingPickerPic.png');*/
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  color: green;
+  font-size: 100px;
+ }
+ .path_finding_img {
+
+  background-image: url('./images/PathfindingPic.png');
+  background-color: black;
+  background-position: center;
+  background-size:contain;
+
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 90px;
+ }
+
+ .toon_tanks_img {
+
+  background-image: url('./images/ToonTanksPic.png');
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+ }
+
+
+.aboutProject {
+  background: var(--secondaryColor);
+  padding-left: 3rem;
+  padding-top:  30px;
+  padding-bottom: 30px;
+  list-style-position: inside;
+}
+.aboutProject li{
+  margin: 10px;
+  color: whitesmoke;
+}
+.aboutProject ul{
+  margin: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+ .title {
+    color: var(--primaryTextColor);
+    margin: 30px 100px;
+    font-size: 40px;
+    display: block;
+    border-bottom: 5px solid rgba(0, 0, 0, .7);
+    border-radius: 5px;
+    text-align: left;
   }
+.projectInfo {
+  padding: 20px;
+}
+.projectInfoList {
+  list-style-type: circle;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+  @media only screen and (min-width: 1200px) {
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
   }
-  to {
-    transform: rotate(360deg);
+  
+  @media only screen and (min-width: 1024px) {
+    
   }
-}
+  @media only screen and (max-width: 1024px) {
+    .title {
+      text-align: center;
+    }
+    .aboutProject > h2,p,h3, h4{
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+    }
+    .aboutProject > ul {
+      text-align:left;
+      padding-left: 2rem;
+  
+    }
+
+
+      .about-text-wrapper {
+        margin-bottom: 2rem;
+        text-align: center;
+      }
+  }
