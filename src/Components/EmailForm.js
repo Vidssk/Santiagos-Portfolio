@@ -57,10 +57,11 @@ export default class extends React.Component {
     handleSubmit(event) {
         const templateId = 'template_s36jpq2';
         this.sendFeedback(templateId, {message: this.state.feedback, from_name: this.state.name, reply_to: this.state.email})
+        window.location.reload(true);
     }
     sendFeedback(templateId, variables) {
         window.emailjs.send('service_yn8zl2l',templateId, variables
-        ).then(res => {window.location.reload(true);console.log('Email successfully sent!')
+        ).then(res => {console.log('Email successfully sent!')
     })
     .catch(err => console.error('Oh well, you failed. Here are some thoughts on the error that occured:',err))
     }
