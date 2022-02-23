@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/Santiagos-Portfolio/static/css/main.1bddb293.chunk.css",
-    "main.js": "/Santiagos-Portfolio/static/js/main.6b46adf1.chunk.js",
-    "main.js.map": "/Santiagos-Portfolio/static/js/main.6b46adf1.chunk.js.map",
+    "main.css": "/Santiagos-Portfolio/static/css/main.3947e61a.chunk.css",
+    "main.js": "/Santiagos-Portfolio/static/js/main.545ec839.chunk.js",
+    "main.js.map": "/Santiagos-Portfolio/static/js/main.545ec839.chunk.js.map",
     "runtime-main.js": "/Santiagos-Portfolio/static/js/runtime-main.804aa1e1.js",
     "runtime-main.js.map": "/Santiagos-Portfolio/static/js/runtime-main.804aa1e1.js.map",
-    "static/js/2.627fec17.chunk.js": "/Santiagos-Portfolio/static/js/2.627fec17.chunk.js",
-    "static/js/2.627fec17.chunk.js.map": "/Santiagos-Portfolio/static/js/2.627fec17.chunk.js.map",
+    "static/js/2.c97ee91c.chunk.js": "/Santiagos-Portfolio/static/js/2.c97ee91c.chunk.js",
+    "static/js/2.c97ee91c.chunk.js.map": "/Santiagos-Portfolio/static/js/2.c97ee91c.chunk.js.map",
     "static/js/3.27040647.chunk.js": "/Santiagos-Portfolio/static/js/3.27040647.chunk.js",
     "static/js/3.27040647.chunk.js.map": "/Santiagos-Portfolio/static/js/3.27040647.chunk.js.map",
     "index.html": "/Santiagos-Portfolio/index.html",
-    "static/css/main.1bddb293.chunk.css.map": "/Santiagos-Portfolio/static/css/main.1bddb293.chunk.css.map",
-    "static/js/2.627fec17.chunk.js.LICENSE.txt": "/Santiagos-Portfolio/static/js/2.627fec17.chunk.js.LICENSE.txt",
+    "static/css/main.3947e61a.chunk.css.map": "/Santiagos-Portfolio/static/css/main.3947e61a.chunk.css.map",
+    "static/js/2.c97ee91c.chunk.js.LICENSE.txt": "/Santiagos-Portfolio/static/js/2.c97ee91c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Santiagos-Portfolio/static/media/ToonTanksPic.95d525b7.png",
-    "static/media/SHLogo.05bb2f0a.svg": "/Santiagos-Portfolio/static/media/SHLogo.05bb2f0a.svg",
-    "static/media/Software_Resume.43b604c4.pdf": "/Santiagos-Portfolio/static/media/Software_Resume.43b604c4.pdf",
-    "static/media/logo.1f77953b.svg": "/Santiagos-Portfolio/static/media/logo.1f77953b.svg"
+    "static/media/Cosplay.2f6328d7.jpg": "/Santiagos-Portfolio/static/media/Cosplay.2f6328d7.jpg",
+    "static/media/PaintingPickerIcon.1c31dda2.png": "/Santiagos-Portfolio/static/media/PaintingPickerIcon.1c31dda2.png",
+    "static/media/PathFinding.c58ab273.png": "/Santiagos-Portfolio/static/media/PathFinding.c58ab273.png",
+    "static/media/SimpleShooterIcon.f2bee9f1.png": "/Santiagos-Portfolio/static/media/SimpleShooterIcon.f2bee9f1.png",
+    "static/media/Software_Resume.7c56fcb4.pdf": "/Santiagos-Portfolio/static/media/Software_Resume.7c56fcb4.pdf",
+    "static/media/ToonTanksIcon.c8bc62bd.png": "/Santiagos-Portfolio/static/media/ToonTanksIcon.c8bc62bd.png",
+    "static/media/ZeroLatency.899954be.png": "/Santiagos-Portfolio/static/media/ZeroLatency.899954be.png",
+    "static/media/video.8de99afd.mp4": "/Santiagos-Portfolio/static/media/video.8de99afd.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.804aa1e1.js",
-    "static/js/2.627fec17.chunk.js",
-    "static/css/main.1bddb293.chunk.css",
-    "static/js/main.6b46adf1.chunk.js"
+    "static/js/2.c97ee91c.chunk.js",
+    "static/css/main.3947e61a.chunk.css",
+    "static/js/main.545ec839.chunk.js"
   ]
 }
