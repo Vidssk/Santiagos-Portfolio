@@ -36,6 +36,7 @@ function About(props) {
                 <section className='Hobbies-wrapper'>
                 <h3>Hobbies</h3>
                 <ul className='list'>
+                    <li>Cosplaying</li>
                     <li>Dancing</li>
                     <li>Piano</li>
                     <li>Rock Climbing</li>
