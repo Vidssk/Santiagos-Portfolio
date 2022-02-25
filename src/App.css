@@ -75,7 +75,7 @@
  }
 
  .painting_picker_img {
-  /*background-image: url('./images/PaintingPickerPic.png');*/
+  background-image: url('./images/VRPainterPic.png');
   background-position: center;
   background-size: cover;
   overflow: hidden;
