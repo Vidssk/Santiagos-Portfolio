@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Santiagos-Portfolio/static/css/main.045a54be.chunk.css",
+    "main.css": "/Santiagos-Portfolio/static/css/main.6bd89090.chunk.css",
     "main.js": "/Santiagos-Portfolio/static/js/main.74f74f40.chunk.js",
     "main.js.map": "/Santiagos-Portfolio/static/js/main.74f74f40.chunk.js.map",
     "runtime-main.js": "/Santiagos-Portfolio/static/js/runtime-main.804aa1e1.js",
@@ -10,9 +10,9 @@
     "static/js/3.27040647.chunk.js": "/Santiagos-Portfolio/static/js/3.27040647.chunk.js",
     "static/js/3.27040647.chunk.js.map": "/Santiagos-Portfolio/static/js/3.27040647.chunk.js.map",
     "index.html": "/Santiagos-Portfolio/index.html",
-    "static/css/main.045a54be.chunk.css.map": "/Santiagos-Portfolio/static/css/main.045a54be.chunk.css.map",
+    "static/css/main.6bd89090.chunk.css.map": "/Santiagos-Portfolio/static/css/main.6bd89090.chunk.css.map",
     "static/js/2.c97ee91c.chunk.js.LICENSE.txt": "/Santiagos-Portfolio/static/js/2.c97ee91c.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Santiagos-Portfolio/static/media/ToonTanksPic.95d525b7.png",
+    "static/media/App.css": "/Santiagos-Portfolio/static/media/VRPainterPic.82ad565f.png",
     "static/media/Cosplay.2f6328d7.jpg": "/Santiagos-Portfolio/static/media/Cosplay.2f6328d7.jpg",
     "static/media/PaintingPickerIcon.1c31dda2.png": "/Santiagos-Portfolio/static/media/PaintingPickerIcon.1c31dda2.png",
     "static/media/PathFinding.c58ab273.png": "/Santiagos-Portfolio/static/media/PathFinding.c58ab273.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.804aa1e1.js",
     "static/js/2.c97ee91c.chunk.js",
-    "static/css/main.045a54be.chunk.css",
+    "static/css/main.6bd89090.chunk.css",
     "static/js/main.74f74f40.chunk.js"
   ]
 }
