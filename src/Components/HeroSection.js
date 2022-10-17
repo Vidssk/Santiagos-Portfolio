@@ -5,7 +5,7 @@ import { Button } from './Button'
 import './CSS/HeroSection.css';
 import BackgroundVideo from './video.mp4';
 import {faDownload} from '@fortawesome/free-solid-svg-icons';
-import Resume from '../images/Santiagos_Resume.pdf'
+import Resume from '../images/Software_Resume.pdf'
 
 function HeroSection() {
     return (
