@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Santiagos-Portfolio/static/css/main.6bd89090.chunk.css",
-    "main.js": "/Santiagos-Portfolio/static/js/main.5cf4d9ce.chunk.js",
-    "main.js.map": "/Santiagos-Portfolio/static/js/main.5cf4d9ce.chunk.js.map",
+    "main.js": "/Santiagos-Portfolio/static/js/main.0568208c.chunk.js",
+    "main.js.map": "/Santiagos-Portfolio/static/js/main.0568208c.chunk.js.map",
     "runtime-main.js": "/Santiagos-Portfolio/static/js/runtime-main.804aa1e1.js",
     "runtime-main.js.map": "/Santiagos-Portfolio/static/js/runtime-main.804aa1e1.js.map",
     "static/js/2.c97ee91c.chunk.js": "/Santiagos-Portfolio/static/js/2.c97ee91c.chunk.js",
@@ -17,8 +17,8 @@
     "static/media/Cosplay.2f6328d7.jpg": "/Santiagos-Portfolio/static/media/Cosplay.2f6328d7.jpg",
     "static/media/PaintingPickerIcon.1c31dda2.png": "/Santiagos-Portfolio/static/media/PaintingPickerIcon.1c31dda2.png",
     "static/media/PathFinding.c58ab273.png": "/Santiagos-Portfolio/static/media/PathFinding.c58ab273.png",
-    "static/media/Santiagos_Resume.7d1bf595.pdf": "/Santiagos-Portfolio/static/media/Santiagos_Resume.7d1bf595.pdf",
     "static/media/SimpleShooterIcon.f2bee9f1.png": "/Santiagos-Portfolio/static/media/SimpleShooterIcon.f2bee9f1.png",
+    "static/media/Software_Resume.58d991e1.pdf": "/Santiagos-Portfolio/static/media/Software_Resume.58d991e1.pdf",
     "static/media/ToonTanksIcon.c8bc62bd.png": "/Santiagos-Portfolio/static/media/ToonTanksIcon.c8bc62bd.png",
     "static/media/ZeroLatency.899954be.png": "/Santiagos-Portfolio/static/media/ZeroLatency.899954be.png",
     "static/media/video.8de99afd.mp4": "/Santiagos-Portfolio/static/media/video.8de99afd.mp4"
@@ -27,6 +27,6 @@
     "static/js/runtime-main.804aa1e1.js",
     "static/js/2.c97ee91c.chunk.js",
     "static/css/main.6bd89090.chunk.css",
-    "static/js/main.5cf4d9ce.chunk.js"
+    "static/js/main.0568208c.chunk.js"
   ]
 }
